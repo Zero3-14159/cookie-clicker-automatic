@@ -5,3 +5,6 @@ setInterval(() => { //sets intercal for clicking the cookie
     // ignore error, it still clicks
   }
 }, 10);
+function isAffordable(){
+    
+}
